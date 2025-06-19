@@ -25,12 +25,12 @@ To develop a visual dashboard that enables IBM’s HR team to track key metrics 
 
 ## 📷 Dashboard Preview
 
-<a href=https://github.com/akashj0322/Data-Analysis-Dashboard-2/blob/main/HR%20Analytics%20Dashboard.png>< Dashboard </a>
+<a href=https://github.com/akashj0322/Data-Analysis-Dashboard-2/blob/main/HR%20Analytics%20Dashboard.png>Dashboard </a>
 
 
 ## 📌 Dataset
 
-<a href=https://github.com/akashj0322/Data-Analysis-Dashboard-2/blob/main/HR-Employee-Attrition.csv><Dataset</a>
+<a href=https://github.com/akashj0322/Data-Analysis-Dashboard-2/blob/main/HR-Employee-Attrition.csv>Dataset</a>
 
 ## ✅ Outcome
 
