@@ -25,7 +25,7 @@ To develop a visual dashboard that enables IBM’s HR team to track key metrics 
 
 ## 📷 Dashboard Preview
 
-<a href=
+<a href=https://github.com/akashj0322/Data-Analysis-Dashboard-2/blob/main/HR%20Analytics%20Dashboard.png> < Dashboard /a>
 
 
 ## 📌 Dataset
